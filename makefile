@@ -1,3 +1,5 @@
+
 all:
-	g++ -o exe personne.cpp main.cpp
+	clear
+	g++ -o exe personne.cpp main.cpp -Wall -Wextra
 	./exe

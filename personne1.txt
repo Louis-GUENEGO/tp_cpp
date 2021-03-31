@@ -1,0 +1,6 @@
+genre=M
+prenom=Louis
+nom=GUENEGO
+ddfkghksgns
+situation=depuis le fichier
+date_naissance=1999
